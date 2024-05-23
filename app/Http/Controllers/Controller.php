@@ -14,8 +14,8 @@ use OpenApi\Annotations as OA;
      *         }
      * },
      * @OA\Contact(
-     *      name="Steven Wijaya",
-     *      email="steven.422023002@civitas.ukrida.ac.id"
+     *      name="Steven Salvador",
+     *      email="steven.422023029@civitas.ukrida.ac.id"
      * ),
      * 
      * 
