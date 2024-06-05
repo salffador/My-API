@@ -11,6 +11,8 @@ use OpenApi\Annotations as OA;
 /**
  * Class Book.
  * 
+ * @author yesman <yesman.422023030@civitas.ukrida.ac.id>
+ * 
  * @OA\Schema(
  *      description="Book model",
  *      title="Book model",
